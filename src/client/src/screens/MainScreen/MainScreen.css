@@ -1,0 +1,15 @@
+.main-screen {
+	height: 100%;
+	width: 100%;
+	background-color:#ffffff;
+}
+
+.main-screen-header {
+	background-color: #609cd4;
+	color: #ffffff
+}
+
+.main-screen-body {
+	padding: 1% 2%;
+}
+
